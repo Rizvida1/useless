@@ -1,4 +1,4 @@
-x = "Hel";
-y = "lo";
+x = "H";
+y = "i";
 
 console.log(x + y);
