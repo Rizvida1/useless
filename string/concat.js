@@ -1,4 +1,4 @@
 x = "H";
-y = "i";
+y = "ome";
 
 console.log(x + y);
